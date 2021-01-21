@@ -1,5 +1,6 @@
 {
   "name": "cards",
+  "homepage": "http://Constantin-dot.github.io/ownCardsProject/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
