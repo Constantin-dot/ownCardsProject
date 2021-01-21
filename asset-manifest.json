@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ownCardsProject/static/css/main.34e55649.chunk.css",
+    "main.js": "/ownCardsProject/static/js/main.4652435f.chunk.js",
+    "main.js.map": "/ownCardsProject/static/js/main.4652435f.chunk.js.map",
+    "runtime-main.js": "/ownCardsProject/static/js/runtime-main.2febfd01.js",
+    "runtime-main.js.map": "/ownCardsProject/static/js/runtime-main.2febfd01.js.map",
+    "static/js/2.6e1db14b.chunk.js": "/ownCardsProject/static/js/2.6e1db14b.chunk.js",
+    "static/js/2.6e1db14b.chunk.js.map": "/ownCardsProject/static/js/2.6e1db14b.chunk.js.map",
+    "index.html": "/ownCardsProject/index.html",
+    "precache-manifest.caf7f5faa86e53bdeddce34ca41fb08c.js": "/ownCardsProject/precache-manifest.caf7f5faa86e53bdeddce34ca41fb08c.js",
+    "service-worker.js": "/ownCardsProject/service-worker.js",
+    "static/css/main.34e55649.chunk.css.map": "/ownCardsProject/static/css/main.34e55649.chunk.css.map",
+    "static/js/2.6e1db14b.chunk.js.LICENSE.txt": "/ownCardsProject/static/js/2.6e1db14b.chunk.js.LICENSE.txt",
+    "static/media/Fitness_Fill.svg": "/ownCardsProject/static/media/Fitness_Fill.5812c2c9.svg",
+    "static/media/Folder-Outline.svg": "/ownCardsProject/static/media/Folder-Outline.bbf08363.svg",
+    "static/media/Pencil-Outline.svg": "/ownCardsProject/static/media/Pencil-Outline.042251b4.svg",
+    "static/media/Trash-Outline.svg": "/ownCardsProject/static/media/Trash-Outline.d76ce237.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2febfd01.js",
+    "static/js/2.6e1db14b.chunk.js",
+    "static/css/main.34e55649.chunk.css",
+    "static/js/main.4652435f.chunk.js"
+  ]
+}
